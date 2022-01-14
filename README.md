@@ -3,7 +3,7 @@
 
 
 ## Demonstration
-<img src="./public/images/img1.png" alt="exemplo"> 
+<img src="./public/images/img1.PNG" alt="exemplo"> 
 <img src="./public/images/img2.png" alt="exemplo"> 
 
 ## Techs 
